@@ -11,3 +11,5 @@ internal class SampleTest {
         assertEquals(expected, testSample.sum(40, 2))
     }
 }
+
+
